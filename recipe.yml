@@ -1,3 +1,5 @@
+
+# vib
 name: Custom Vanilla Desktop (with Tailscale) # Replace this name with your image name
 id: vanilla-os-tailscale # Replace this ID with your image ID
 stages:
